@@ -1,28 +1,28 @@
 # Data sources
 
-## Dengue, 2021-2026 (state-wise cases and deaths)
-- Source: NCVBDC, Ministry of Health and Family Welfare
+All data are reported case counts from NCVBDC (National Centre for Vector Borne
+Diseases Control), Ministry of Health and Family Welfare, Government of India.
+
+## Dengue: state-wise cases and deaths, 2021-2026
 - File: data/raw/dengue_2021_2026_ncvbdc.pdf
-- Years: 2021-2025 are full years; 2026 is provisional (excluded)
-- Notes: reported cases only; under-reporting is likely
+- URL: https://ncvbdc.mohfw.gov.in/Doc/Dengue-Cases-deaths-2021-2026-till-April.pdf
+- Years used: 2021-2025 (2026 is provisional up to 30 April and is excluded)
+- Known issues:
+  - West Bengal 2023 and 2024 are partial-year figures (footnoted)
+  - West Bengal 2025 is "NR" (not reported)
+  - Ladakh is listed as non-endemic (no numbers)
+  - Daman & Diu is listed separately from Dadra & Nagar Haveli (merged later)
+  - State names are abbreviated differently from the malaria table
 
-## Dengue, 2020-2023 (state-wise cases and deaths)
-- Source: Parliament question answer, Ministry of Health and Family Welfare
-- File: data/raw/dengue_2020_2023_parliament.pdf
-- Years: used only for 2020; 2023 is as of 30 November
-- Notes: same underlying NCVBDC data
+## Malaria: state-wise tests, positive cases, Pf cases and deaths, 2022-2026
+- File: data/raw/malaria_from2022_ncvbdc.pdf
+- URL: https://ncvbdc.mohfw.gov.in/WriteReadData/l892s/97373333991793187283.pdf
+- Years used: 2022-2025 (2026 is a partial year and is excluded)
+- Column used as "cases": Positive
+- Known issues: state names are written differently from the dengue table
 
-## Malaria, 2022-2026 (state-wise)
-- Source: NCVBDC malaria situation table
-- File: data/raw/malaria_2022_2026_ncvbdc.pdf
-- Years: 2022-2025 are full years; 2026 is up to June (excluded)
-- Columns: blood slide examinations, malaria cases, Pf cases, deaths
+## Analysis window
+- 2022-2025 for both diseases (dengue 2021 kept as extra history)
 
-## Malaria, 2020-2024 (state-wise)
-- Source: NCVBDC malaria situation table
-- File: data/raw/malaria_2020_2024_ncvbdc.pdf
-- Years: used for 2020 and 2021; 2024 is up to July in this file
-- Columns: blood slide examinations, malaria cases, Pf cases, deaths
-
-## Population (to be added)
-- Needed for cases per 100,000 people. Source to be decided on Day 14.
+## Population (to be added in Step 10)
+- Source and year to be recorded when the population file is added
