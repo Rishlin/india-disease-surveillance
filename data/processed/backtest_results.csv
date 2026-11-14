@@ -1,0 +1,6 @@
+disease,test_year,n_states,MAE_baseline,MAE_model,WAPE_baseline_%,WAPE_model_%,model_wins
+Dengue,2023,34,3074,3630,40.4,47.7,False
+Dengue,2024,34,3370,3358,49.2,49.0,True
+Dengue,2025,34,3555,2412,99.2,67.3,True
+Malaria,2024,36,1981,2262,27.9,31.9,False
+Malaria,2025,36,856,1617,13.2,24.9,False

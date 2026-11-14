@@ -1,0 +1,246 @@
+state,disease,year,cases,lag_cases,expected,z_score,unusual,direction
+Andaman and Nicobar Islands,Dengue,2022,1014.0,175.0,375.0,0.8852007730511453,False,higher than expected
+Andaman and Nicobar Islands,Dengue,2023,846.0,1014.0,1303.0,-0.3848099614532912,False,lower than expected
+Andaman and Nicobar Islands,Dengue,2024,59.0,846.0,1146.0,-2.631482689855409,True,lower than expected
+Andaman and Nicobar Islands,Dengue,2025,370.0,59.0,174.0,0.6684582272347229,False,higher than expected
+Andhra Pradesh,Dengue,2022,6391.0,4760.0,3902.0,0.4398829459920415,False,higher than expected
+Andhra Pradesh,Dengue,2023,6453.0,6391.0,4810.0,0.26209928377936964,False,higher than expected
+Andhra Pradesh,Dengue,2024,5555.0,6453.0,4843.0,0.12236674904806533,False,higher than expected
+Andhra Pradesh,Dengue,2025,2686.0,5555.0,4354.0,-0.4307565890655589,False,lower than expected
+Arunachal Pradesh,Dengue,2022,114.0,7.0,41.0,0.8986822083624227,False,higher than expected
+Arunachal Pradesh,Dengue,2023,130.0,114.0,277.0,-0.6716475162451915,False,lower than expected
+Arunachal Pradesh,Dengue,2024,20.0,130.0,304.0,-2.386835818198778,True,lower than expected
+Arunachal Pradesh,Dengue,2025,170.0,20.0,82.0,0.6418971936024391,False,higher than expected
+Assam,Dengue,2022,1826.0,103.0,258.0,1.7423140409631592,False,higher than expected
+Assam,Dengue,2023,8208.0,1826.0,1978.0,1.2690295631928803,False,higher than expected
+Assam,Dengue,2024,2271.0,8208.0,5744.0,-0.8273693427969024,False,lower than expected
+Assam,Dengue,2025,679.0,2271.0,2308.0,-1.0905057343726836,False,lower than expected
+Bihar,Dengue,2022,13972.0,633.0,933.0,2.4130843439371805,True,higher than expected
+Bihar,Dengue,2023,20224.0,13972.0,8377.0,0.7859987476440924,False,higher than expected
+Bihar,Dengue,2024,10157.0,20224.0,10891.0,-0.06218623813522748,False,lower than expected
+Bihar,Dengue,2025,3902.0,10157.0,6681.0,-0.4795681282608785,False,lower than expected
+Chandigarh,Dengue,2022,910.0,1596.0,1797.0,-0.6066159362613059,False,lower than expected
+Chandigarh,Dengue,2023,454.0,910.0,1207.0,-0.8706376192905844,False,lower than expected
+Chandigarh,Dengue,2024,349.0,454.0,737.0,-0.6653747338425766,False,lower than expected
+Chandigarh,Dengue,2025,66.0,349.0,612.0,-1.9738855389056391,False,lower than expected
+Chhattisgarh,Dengue,2022,2679.0,1086.0,1368.0,0.5991741801031762,False,higher than expected
+Chhattisgarh,Dengue,2023,2412.0,2679.0,2596.0,-0.06539102556686754,False,lower than expected
+Chhattisgarh,Dengue,2024,3523.0,2412.0,2409.0,0.33879366777056463,False,higher than expected
+Chhattisgarh,Dengue,2025,513.0,3523.0,3152.0,-1.617843749772758,False,lower than expected
+Dadra and Nagar Haveli and Daman and Diu,Dengue,2022,913.0,826.0,1127.0,-0.18730412990216483,False,lower than expected
+Dadra and Nagar Haveli and Daman and Diu,Dengue,2023,1462.0,913.0,1210.0,0.1689663434974343,False,higher than expected
+Dadra and Nagar Haveli and Daman and Diu,Dengue,2024,681.0,1462.0,1689.0,-0.8093806086031601,False,lower than expected
+Dadra and Nagar Haveli and Daman and Diu,Dengue,2025,344.0,681.0,982.0,-0.9342906183101666,False,lower than expected
+Delhi,Dengue,2022,10183.0,13089.0,7998.0,0.21537226728285191,False,higher than expected
+Delhi,Dengue,2023,16866.0,10183.0,6693.0,0.8242016534041693,False,higher than expected
+Delhi,Dengue,2024,10585.0,16866.0,9574.0,0.08950003578770961,False,higher than expected
+Delhi,Dengue,2025,4665.0,10585.0,6880.0,-0.3464275188433684,False,lower than expected
+Goa,Dengue,2022,443.0,649.0,950.0,-0.6788767658162489,False,lower than expected
+Goa,Dengue,2023,512.0,443.0,724.0,-0.3088813364408238,False,lower than expected
+Goa,Dengue,2024,567.0,512.0,803.0,-0.3094433349057275,False,lower than expected
+Goa,Dengue,2025,105.0,567.0,863.0,-1.871088786200019,False,lower than expected
+Gujarat,Dengue,2022,6682.0,10983.0,7062.0,-0.04935364805853924,False,lower than expected
+Gujarat,Dengue,2023,7222.0,6682.0,4964.0,0.33433136414772396,False,higher than expected
+Gujarat,Dengue,2024,7891.0,7222.0,5245.0,0.364169989489492,False,higher than expected
+Gujarat,Dengue,2025,4233.0,7891.0,5586.0,-0.247260095425325,False,lower than expected
+Haryana,Dengue,2022,8996.0,11835.0,7447.0,0.1685597166983072,False,higher than expected
+Haryana,Dengue,2023,8081.0,8996.0,6130.0,0.24642919405110966,False,higher than expected
+Haryana,Dengue,2024,6469.0,8081.0,5681.0,0.11587619465950275,False,higher than expected
+Haryana,Dengue,2025,2626.0,6469.0,4851.0,-0.5472600271961612,False,lower than expected
+Himachal Pradesh,Dengue,2022,3326.0,349.0,612.0,1.5090771918357408,False,higher than expected
+Himachal Pradesh,Dengue,2023,1989.0,3326.0,3026.0,-0.3741197308907724,False,lower than expected
+Himachal Pradesh,Dengue,2024,3359.0,1989.0,2101.0,0.4182380810806933,False,higher than expected
+Himachal Pradesh,Dengue,2025,229.0,3359.0,3047.0,-2.3049016023456743,True,lower than expected
+Jammu and Kashmir,Dengue,2022,8269.0,1709.0,1887.0,1.317507297653587,False,higher than expected
+Jammu and Kashmir,Dengue,2023,6403.0,8269.0,5774.0,0.09218181873258957,False,higher than expected
+Jammu and Kashmir,Dengue,2024,6876.0,6403.0,4816.0,0.3175321055087628,False,higher than expected
+Jammu and Kashmir,Dengue,2025,3381.0,6876.0,5066.0,-0.3605457456701633,False,lower than expected
+Jharkhand,Dengue,2022,290.0,220.0,441.0,-0.3731171239795472,False,lower than expected
+Jharkhand,Dengue,2023,2578.0,290.0,536.0,1.3987459521398267,False,higher than expected
+Jharkhand,Dengue,2024,1528.0,2578.0,2526.0,-0.44801745619632877,False,lower than expected
+Jharkhand,Dengue,2025,401.0,1528.0,1743.0,-1.3087341256337763,False,lower than expected
+Karnataka,Dengue,2022,9889.0,7393.0,5333.0,0.5506429109687034,False,higher than expected
+Karnataka,Dengue,2023,19300.0,9889.0,6556.0,0.9629617207562655,False,higher than expected
+Karnataka,Dengue,2024,32886.0,19300.0,10535.0,1.0152118812669155,False,higher than expected
+Karnataka,Dengue,2025,7325.0,32886.0,15376.0,-0.6612879000829786,False,lower than expected
+Kerala,Dengue,2022,4432.0,3251.0,2978.0,0.3546615896799673,False,higher than expected
+Kerala,Dengue,2023,17426.0,4432.0,3710.0,1.379592737724173,False,higher than expected
+Kerala,Dengue,2024,20674.0,17426.0,9799.0,0.66586134586526,False,higher than expected
+Kerala,Dengue,2025,10923.0,20674.0,11062.0,-0.011268550854450641,False,lower than expected
+Lakshadweep,Dengue,2022,67.0,1.0,15.0,1.307197483278875,False,higher than expected
+Lakshadweep,Dengue,2023,445.0,67.0,191.0,0.7534774829301136,False,higher than expected
+Lakshadweep,Dengue,2024,513.0,445.0,727.0,-0.30998814078792414,False,lower than expected
+Lakshadweep,Dengue,2025,125.0,513.0,804.0,-1.6537237524424986,False,lower than expected
+Madhya Pradesh,Dengue,2022,3318.0,15592.0,9055.0,-0.895287271891898,False,lower than expected
+Madhya Pradesh,Dengue,2023,6979.0,3318.0,3021.0,0.7466532194750739,False,higher than expected
+Madhya Pradesh,Dengue,2024,10224.0,6979.0,5120.0,0.6168106260076284,False,higher than expected
+Madhya Pradesh,Dengue,2025,1941.0,10224.0,6712.0,-1.1062934628003902,False,lower than expected
+Maharashtra,Dengue,2022,8578.0,12720.0,7838.0,0.08050439645395714,False,higher than expected
+Maharashtra,Dengue,2023,19034.0,8578.0,5926.0,1.040561703875495,False,higher than expected
+Maharashtra,Dengue,2024,19385.0,19034.0,10432.0,0.5526034017659861,False,higher than expected
+Maharashtra,Dengue,2025,14168.0,19385.0,10568.0,0.2614386514846306,False,higher than expected
+Manipur,Dengue,2022,503.0,203.0,417.0,0.16740269133209876,False,higher than expected
+Manipur,Dengue,2023,2548.0,503.0,793.0,1.04078624921479,False,higher than expected
+Manipur,Dengue,2024,2463.0,2548.0,2505.0,-0.015027599185770573,False,lower than expected
+Manipur,Dengue,2025,5519.0,2463.0,2445.0,0.7258250644082851,False,higher than expected
+Meghalaya,Dengue,2022,26.0,129.0,302.0,-2.1578416894113963,True,lower than expected
+Meghalaya,Dengue,2023,114.0,26.0,99.0,0.1290431069568648,False,higher than expected
+Meghalaya,Dengue,2024,74.0,114.0,277.0,-1.1690646503699695,False,lower than expected
+Meghalaya,Dengue,2025,81.0,74.0,204.0,-0.8190271085518223,False,lower than expected
+Mizoram,Dengue,2022,1868.0,83.0,222.0,1.8977180765538355,False,higher than expected
+Mizoram,Dengue,2023,2060.0,1868.0,2010.0,0.0220168027659716,False,higher than expected
+Mizoram,Dengue,2024,744.0,2060.0,2154.0,-0.9474126960817698,False,lower than expected
+Mizoram,Dengue,2025,1482.0,744.0,1046.0,0.31043395938697443,False,higher than expected
+Nagaland,Dengue,2022,154.0,24.0,93.0,0.44396189962711063,False,higher than expected
+Nagaland,Dengue,2023,4943.0,154.0,343.0,2.3777159652009807,True,higher than expected
+Nagaland,Dengue,2024,42.0,4943.0,4008.0,-4.044877276768319,True,lower than expected
+Nagaland,Dengue,2025,97.0,42.0,137.0,-0.3080734907586545,False,lower than expected
+Odisha,Dengue,2022,7063.0,7548.0,5412.0,0.23738290009579247,False,higher than expected
+Odisha,Dengue,2023,12845.0,7063.0,5163.0,0.8127688566110667,False,higher than expected
+Odisha,Dengue,2024,9892.0,12845.0,7892.0,0.20142124608797357,False,higher than expected
+Odisha,Dengue,2025,2635.0,9892.0,6557.0,-0.8128955524379362,False,lower than expected
+Puducherry,Dengue,2022,1673.0,1625.0,1821.0,-0.07534927526127232,False,lower than expected
+Puducherry,Dengue,2023,2790.0,1673.0,1859.0,0.3621645852669189,False,higher than expected
+Puducherry,Dengue,2024,2128.0,2790.0,2671.0,-0.20275030965763507,False,lower than expected
+Puducherry,Dengue,2025,902.0,2128.0,2204.0,-0.7964062303423113,False,lower than expected
+Punjab,Dengue,2022,11030.0,23389.0,12074.0,-0.08064226403209161,False,lower than expected
+Punjab,Dengue,2023,13687.0,11030.0,7084.0,0.5873899530663198,False,higher than expected
+Punjab,Dengue,2024,6260.0,13687.0,8256.0,-0.2467784362955058,False,lower than expected
+Punjab,Dengue,2025,4981.0,6260.0,4739.0,0.044317975308075123,False,higher than expected
+Rajasthan,Dengue,2022,13491.0,20749.0,11090.0,0.17475000860044643,False,higher than expected
+Rajasthan,Dengue,2023,13924.0,13491.0,8172.0,0.47527832388194247,False,higher than expected
+Rajasthan,Dengue,2024,12514.0,13924.0,8357.0,0.3600747512384986,False,higher than expected
+Rajasthan,Dengue,2025,4348.0,12514.0,7747.0,-0.5150924943663603,False,lower than expected
+Sikkim,Dengue,2022,264.0,243.0,473.0,-0.5192353847422365,False,lower than expected
+Sikkim,Dengue,2023,311.0,264.0,502.0,-0.42585143398375697,False,lower than expected
+Sikkim,Dengue,2024,374.0,311.0,564.0,-0.365118394477374,False,lower than expected
+Sikkim,Dengue,2025,169.0,374.0,642.0,-1.187091705999513,False,lower than expected
+Tamil Nadu,Dengue,2022,6430.0,6039.0,4620.0,0.2947545339805422,False,higher than expected
+Tamil Nadu,Dengue,2023,9121.0,6430.0,4830.0,0.5668358166654079,False,higher than expected
+Tamil Nadu,Dengue,2024,27378.0,9121.0,6190.0,1.3259309876041365,False,higher than expected
+Tamil Nadu,Dengue,2025,23407.0,27378.0,13501.0,0.49075690443870656,False,higher than expected
+Telangana,Dengue,2022,8972.0,7135.0,5200.0,0.48633007196560996,False,higher than expected
+Telangana,Dengue,2023,8016.0,8972.0,6118.0,0.24091715858647852,False,higher than expected
+Telangana,Dengue,2024,10077.0,8016.0,5648.0,0.5162536224845993,False,higher than expected
+Telangana,Dengue,2025,8412.0,10077.0,6644.0,0.2104378379147134,False,higher than expected
+Tripura,Dengue,2022,56.0,349.0,612.0,-2.1180523850933985,True,lower than expected
+Tripura,Dengue,2023,1447.0,56.0,168.0,1.9154363167502566,False,higher than expected
+Tripura,Dengue,2024,1198.0,1447.0,1677.0,-0.299641627868067,False,lower than expected
+Tripura,Dengue,2025,741.0,1198.0,1467.0,-0.6082642254832691,False,lower than expected
+Uttar Pradesh,Dengue,2022,19821.0,29750.0,14321.0,0.2898774943929868,False,higher than expected
+Uttar Pradesh,Dengue,2023,35402.0,19821.0,10736.0,1.064108612972517,False,higher than expected
+Uttar Pradesh,Dengue,2024,15868.0,35402.0,16202.0,-0.01855341704508195,False,lower than expected
+Uttar Pradesh,Dengue,2025,9206.0,15868.0,9169.0,0.003610622770089942,False,higher than expected
+Uttarakhand,Dengue,2022,2337.0,738.0,1040.0,0.7215658695160743,False,higher than expected
+Uttarakhand,Dengue,2023,4320.0,2337.0,2356.0,0.5406200585826992,False,higher than expected
+Uttarakhand,Dengue,2024,494.0,4320.0,3643.0,-1.780442979584804,False,lower than expected
+Uttarakhand,Dengue,2025,992.0,494.0,782.0,0.21137612289071817,False,higher than expected
+West Bengal,Dengue,2022,67271.0,8264.0,5772.0,2.1901382537968,True,higher than expected
+Andaman and Nicobar Islands,Malaria,2023,42.0,50.0,50.0,-0.2444761094976572,False,lower than expected
+Andaman and Nicobar Islands,Malaria,2024,96.0,42.0,42.0,1.1656168094598005,False,higher than expected
+Andaman and Nicobar Islands,Malaria,2025,48.0,96.0,96.0,-0.9784612504619012,False,lower than expected
+Andhra Pradesh,Malaria,2023,5268.0,2022.0,2022.0,1.3715824470573792,False,higher than expected
+Andhra Pradesh,Malaria,2024,7866.0,5268.0,5268.0,0.5743272016657832,False,higher than expected
+Andhra Pradesh,Malaria,2025,7878.0,7866.0,7866.0,0.002183903900925792,False,higher than expected
+Arunachal Pradesh,Malaria,2023,11.0,18.0,18.0,-0.6584283407890362,False,lower than expected
+Arunachal Pradesh,Malaria,2024,19.0,11.0,11.0,0.731922535991536,False,higher than expected
+Arunachal Pradesh,Malaria,2025,32.0,19.0,19.0,0.7175221869032706,False,higher than expected
+Assam,Malaria,2023,567.0,280.0,280.0,1.0083729554532272,False,higher than expected
+Assam,Malaria,2024,5036.0,567.0,567.0,3.1270560022110008,True,higher than expected
+Assam,Malaria,2025,3995.0,5036.0,5036.0,-0.3317225289252976,False,lower than expected
+Bihar,Malaria,2023,1257.0,578.0,578.0,1.1118359492143262,False,higher than expected
+Bihar,Malaria,2024,906.0,1257.0,1257.0,-0.4687278597346404,False,lower than expected
+Bihar,Malaria,2025,1041.0,906.0,906.0,0.19881098367677147,False,higher than expected
+Chandigarh,Malaria,2023,2.0,2.0,2.0,0.0,False,lower than expected
+Chandigarh,Malaria,2024,2.0,2.0,2.0,0.0,False,lower than expected
+Chandigarh,Malaria,2025,65.0,2.0,2.0,4.428915712254727,True,higher than expected
+Chhattisgarh,Malaria,2023,31706.0,30029.0,30029.0,0.07786043618358424,False,higher than expected
+Chhattisgarh,Malaria,2024,31373.0,31706.0,31706.0,-0.01512767338681337,False,lower than expected
+Chhattisgarh,Malaria,2025,28836.0,31373.0,31373.0,-0.1208159511706617,False,lower than expected
+Dadra and Nagar Haveli and Daman and Diu,Malaria,2023,128.0,111.0,111.0,0.20247723426535666,False,higher than expected
+Dadra and Nagar Haveli and Daman and Diu,Malaria,2024,207.0,128.0,128.0,0.6844961793910351,False,higher than expected
+Dadra and Nagar Haveli and Daman and Diu,Malaria,2025,212.0,207.0,207.0,0.03403539302323598,False,higher than expected
+Delhi,Malaria,2023,344.0,263.0,263.0,0.3834166330855709,False,higher than expected
+Delhi,Malaria,2024,910.0,344.0,344.0,1.3912686385098272,False,higher than expected
+Delhi,Malaria,2025,941.0,910.0,910.0,0.04794565293174967,False,higher than expected
+Goa,Malaria,2023,1346.0,587.0,587.0,1.1876785041513307,False,higher than expected
+Goa,Malaria,2024,884.0,1346.0,1346.0,-0.6018536269862093,False,lower than expected
+Goa,Malaria,2025,448.0,884.0,884.0,-0.9722629697211362,False,lower than expected
+Gujarat,Malaria,2023,4311.0,4785.0,4785.0,-0.14943359844619403,False,lower than expected
+Gujarat,Malaria,2024,4365.0,4311.0,4311.0,0.01783208643643829,False,higher than expected
+Gujarat,Malaria,2025,3813.0,4365.0,4365.0,-0.1936728511236663,False,lower than expected
+Haryana,Malaria,2023,85.0,52.0,52.0,0.6935655276162349,False,higher than expected
+Haryana,Malaria,2024,522.0,85.0,85.0,2.586580446810918,True,higher than expected
+Haryana,Malaria,2025,515.0,522.0,522.0,-0.019306853650263925,False,lower than expected
+Himachal Pradesh,Malaria,2023,23.0,12.0,12.0,0.8784699900417383,False,higher than expected
+Himachal Pradesh,Malaria,2024,28.0,23.0,23.0,0.2711502278808801,False,higher than expected
+Himachal Pradesh,Malaria,2025,28.0,28.0,28.0,0.0,False,lower than expected
+Jammu and Kashmir,Malaria,2023,44.0,35.0,35.0,0.319725139792268,False,higher than expected
+Jammu and Kashmir,Malaria,2024,108.0,44.0,44.0,1.2675972893242322,False,higher than expected
+Jammu and Kashmir,Malaria,2025,127.0,108.0,108.0,0.23022935973534314,False,higher than expected
+Jharkhand,Malaria,2023,34087.0,19167.0,19167.0,0.8248805900104655,False,higher than expected
+Jharkhand,Malaria,2024,42352.0,34087.0,34087.0,0.31105697717551084,False,higher than expected
+Jharkhand,Malaria,2025,42236.0,42352.0,42352.0,-0.0039297206365777135,False,lower than expected
+Karnataka,Malaria,2023,275.0,289.0,289.0,-0.07089614793834731,False,lower than expected
+Karnataka,Malaria,2024,740.0,275.0,275.0,1.4150553279738827,False,higher than expected
+Karnataka,Malaria,2025,694.0,740.0,740.0,-0.09182785672282694,False,lower than expected
+Kerala,Malaria,2023,569.0,439.0,439.0,0.37090281840230893,False,higher than expected
+Kerala,Malaria,2024,954.0,569.0,569.0,0.7394439321270371,False,higher than expected
+Kerala,Malaria,2025,1144.0,954.0,954.0,0.25998363308106154,False,higher than expected
+Ladakh,Malaria,2023,10.0,2.0,2.0,1.861642119094075,False,higher than expected
+Ladakh,Malaria,2024,9.0,10.0,10.0,-0.1365625866492312,False,lower than expected
+Ladakh,Malaria,2025,10.0,9.0,9.0,0.1365625866492312,False,higher than expected
+Lakshadweep,Malaria,2023,0.0,0.0,0.0,0.0,False,lower than expected
+Lakshadweep,Malaria,2024,1.0,0.0,0.0,0.9931569964533072,False,higher than expected
+Lakshadweep,Malaria,2025,0.0,1.0,1.0,-0.9931569964533072,False,lower than expected
+Madhya Pradesh,Malaria,2023,3794.0,3826.0,3826.0,-0.012031119115553322,False,lower than expected
+Madhya Pradesh,Malaria,2024,3247.0,3794.0,3794.0,-0.2230116686251665,False,lower than expected
+Madhya Pradesh,Malaria,2025,2347.0,3247.0,3247.0,-0.46491588256450245,False,lower than expected
+Maharashtra,Malaria,2023,16159.0,15451.0,15451.0,0.06419132734775906,False,higher than expected
+Maharashtra,Malaria,2024,21078.0,16159.0,16159.0,0.3807557627999378,False,higher than expected
+Maharashtra,Malaria,2025,23821.0,21078.0,21078.0,0.17528040609759726,False,higher than expected
+Manipur,Malaria,2023,34.0,30.0,30.0,0.1738885876041352,False,higher than expected
+Manipur,Malaria,2024,43.0,34.0,34.0,0.32788939364001457,False,higher than expected
+Manipur,Malaria,2025,78.0,43.0,43.0,0.838571245451718,False,higher than expected
+Meghalaya,Malaria,2023,1755.0,479.0,479.0,1.858381997838655,False,higher than expected
+Meghalaya,Malaria,2024,673.0,1755.0,1755.0,-1.3720189281740593,False,lower than expected
+Meghalaya,Malaria,2025,418.0,673.0,673.0,-0.6811054269583684,False,lower than expected
+Mizoram,Malaria,2023,18077.0,11156.0,11156.0,0.6915212379283059,False,higher than expected
+Mizoram,Malaria,2024,16899.0,18077.0,18077.0,-0.09654661134578287,False,lower than expected
+Mizoram,Malaria,2025,9330.0,16899.0,16899.0,-0.8510557347820362,False,lower than expected
+Nagaland,Malaria,2023,10.0,9.0,9.0,0.1365625866492312,False,higher than expected
+Nagaland,Malaria,2024,12.0,10.0,10.0,0.2393588802241086,False,higher than expected
+Nagaland,Malaria,2025,210.0,12.0,12.0,3.993146083548966,True,higher than expected
+Odisha,Malaria,2023,41973.0,23770.0,23770.0,0.8146800881037618,False,higher than expected
+Odisha,Malaria,2024,68693.0,41973.0,41973.0,0.7058248981019664,False,higher than expected
+Odisha,Malaria,2025,62137.0,68693.0,68693.0,-0.14371804764001592,False,lower than expected
+Puducherry,Malaria,2023,6.0,0.0,0.0,2.7881441823691384,False,higher than expected
+Puducherry,Malaria,2024,4.0,6.0,6.0,-0.482105049670256,False,lower than expected
+Puducherry,Malaria,2025,17.0,4.0,4.0,1.8353510571691172,False,higher than expected
+Punjab,Malaria,2023,75.0,119.0,119.0,-0.6544537954565386,False,lower than expected
+Punjab,Malaria,2024,379.0,75.0,75.0,2.3060391326988827,True,higher than expected
+Punjab,Malaria,2025,420.0,379.0,379.0,0.146809276375938,False,higher than expected
+Rajasthan,Malaria,2023,2263.0,1565.0,1565.0,0.5281507064260116,False,higher than expected
+Rajasthan,Malaria,2024,2213.0,2263.0,2263.0,-0.0319982631252678,False,lower than expected
+Rajasthan,Malaria,2025,1756.0,2213.0,2213.0,-0.3312586083166285,False,lower than expected
+Sikkim,Malaria,2023,6.0,8.0,8.0,-0.3600890110455544,False,lower than expected
+Sikkim,Malaria,2024,7.0,6.0,6.0,0.19132680699078303,False,higher than expected
+Sikkim,Malaria,2025,14.0,7.0,7.0,0.9006847400463074,False,higher than expected
+Tamil Nadu,Malaria,2023,385.0,354.0,354.0,0.11995531243371925,False,higher than expected
+Tamil Nadu,Malaria,2024,347.0,385.0,385.0,-0.14849041972514088,False,lower than expected
+Tamil Nadu,Malaria,2025,324.0,347.0,347.0,-0.09797254213881434,False,lower than expected
+Telangana,Malaria,2023,420.0,611.0,611.0,-0.5360181724675631,False,lower than expected
+Telangana,Malaria,2024,269.0,420.0,420.0,-0.6364754131102035,False,lower than expected
+Telangana,Malaria,2025,259.0,269.0,269.0,-0.05407519764320228,False,lower than expected
+Tripura,Malaria,2023,22412.0,12771.0,12771.0,0.8057992298775449,False,higher than expected
+Tripura,Malaria,2024,9738.0,22412.0,22412.0,-1.194261573782452,False,lower than expected
+Tripura,Malaria,2025,6094.0,9738.0,9738.0,-0.671520544001971,False,lower than expected
+Uttar Pradesh,Malaria,2023,13603.0,7039.0,7039.0,0.9438800989937992,False,higher than expected
+Uttar Pradesh,Malaria,2024,13477.0,13603.0,13603.0,-0.013332616462765009,False,lower than expected
+Uttar Pradesh,Malaria,2025,14593.0,13477.0,13477.0,0.11398356376178684,False,higher than expected
+Uttarakhand,Malaria,2023,24.0,19.0,19.0,0.319725139792268,False,higher than expected
+Uttarakhand,Malaria,2024,241.0,24.0,24.0,3.2525961626583855,True,higher than expected
+Uttarakhand,Malaria,2025,196.0,241.0,241.0,-0.2947803362333898,False,lower than expected
+West Bengal,Malaria,2023,26493.0,40594.0,40594.0,-0.6114235680458917,False,lower than expected
+West Bengal,Malaria,2024,21802.0,26493.0,26493.0,-0.27921518210675605,False,lower than expected
+West Bengal,Malaria,2025,19840.0,21802.0,21802.0,-0.13511098166092417,False,lower than expected
