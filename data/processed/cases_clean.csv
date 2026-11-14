@@ -1,0 +1,325 @@
+state,disease,year,cases,deaths,tested,pf_cases,status,usable
+Andaman and Nicobar Islands,Dengue,2021,175.0,0.0,,,ok,True
+Andaman and Nicobar Islands,Dengue,2022,1014.0,3.0,,,ok,True
+Andaman and Nicobar Islands,Dengue,2023,846.0,0.0,,,ok,True
+Andaman and Nicobar Islands,Dengue,2024,59.0,0.0,,,ok,True
+Andaman and Nicobar Islands,Dengue,2025,370.0,0.0,,,ok,True
+Andaman and Nicobar Islands,Malaria,2022,50.0,0.0,31737.0,20.0,ok,True
+Andaman and Nicobar Islands,Malaria,2023,42.0,0.0,38986.0,11.0,ok,True
+Andaman and Nicobar Islands,Malaria,2024,96.0,0.0,47413.0,46.0,ok,True
+Andaman and Nicobar Islands,Malaria,2025,48.0,0.0,55701.0,25.0,ok,True
+Andhra Pradesh,Dengue,2021,4760.0,0.0,,,ok,True
+Andhra Pradesh,Dengue,2022,6391.0,0.0,,,ok,True
+Andhra Pradesh,Dengue,2023,6453.0,0.0,,,ok,True
+Andhra Pradesh,Dengue,2024,5555.0,2.0,,,ok,True
+Andhra Pradesh,Dengue,2025,2686.0,5.0,,,ok,True
+Andhra Pradesh,Malaria,2022,2022.0,0.0,8653048.0,1457.0,ok,True
+Andhra Pradesh,Malaria,2023,5268.0,0.0,10294202.0,4437.0,ok,True
+Andhra Pradesh,Malaria,2024,7866.0,3.0,12364281.0,6201.0,ok,True
+Andhra Pradesh,Malaria,2025,7878.0,8.0,12898436.0,6356.0,ok,True
+Arunachal Pradesh,Dengue,2021,7.0,0.0,,,ok,True
+Arunachal Pradesh,Dengue,2022,114.0,0.0,,,ok,True
+Arunachal Pradesh,Dengue,2023,130.0,0.0,,,ok,True
+Arunachal Pradesh,Dengue,2024,20.0,0.0,,,ok,True
+Arunachal Pradesh,Dengue,2025,170.0,0.0,,,ok,True
+Arunachal Pradesh,Malaria,2022,18.0,0.0,136563.0,3.0,ok,True
+Arunachal Pradesh,Malaria,2023,11.0,0.0,168521.0,5.0,ok,True
+Arunachal Pradesh,Malaria,2024,19.0,0.0,158497.0,2.0,ok,True
+Arunachal Pradesh,Malaria,2025,32.0,0.0,185359.0,11.0,ok,True
+Assam,Dengue,2021,103.0,0.0,,,ok,True
+Assam,Dengue,2022,1826.0,2.0,,,ok,True
+Assam,Dengue,2023,8208.0,7.0,,,ok,True
+Assam,Dengue,2024,2271.0,0.0,,,ok,True
+Assam,Dengue,2025,679.0,0.0,,,ok,True
+Assam,Malaria,2022,280.0,0.0,4139536.0,118.0,ok,True
+Assam,Malaria,2023,567.0,0.0,4712599.0,283.0,ok,True
+Assam,Malaria,2024,5036.0,7.0,6510331.0,1130.0,ok,True
+Assam,Malaria,2025,3995.0,3.0,6022592.0,519.0,ok,True
+Bihar,Dengue,2021,633.0,2.0,,,ok,True
+Bihar,Dengue,2022,13972.0,32.0,,,ok,True
+Bihar,Dengue,2023,20224.0,74.0,,,ok,True
+Bihar,Dengue,2024,10157.0,16.0,,,ok,True
+Bihar,Dengue,2025,3902.0,2.0,,,ok,True
+Bihar,Malaria,2022,578.0,0.0,176335.0,208.0,ok,True
+Bihar,Malaria,2023,1257.0,0.0,225722.0,519.0,ok,True
+Bihar,Malaria,2024,906.0,0.0,225687.0,380.0,ok,True
+Bihar,Malaria,2025,1041.0,0.0,354214.0,403.0,ok,True
+Chandigarh,Dengue,2021,1596.0,3.0,,,ok,True
+Chandigarh,Dengue,2022,910.0,1.0,,,ok,True
+Chandigarh,Dengue,2023,454.0,0.0,,,ok,True
+Chandigarh,Dengue,2024,349.0,0.0,,,ok,True
+Chandigarh,Dengue,2025,66.0,0.0,,,ok,True
+Chandigarh,Malaria,2022,2.0,0.0,51828.0,0.0,ok,True
+Chandigarh,Malaria,2023,2.0,0.0,56066.0,0.0,ok,True
+Chandigarh,Malaria,2024,2.0,0.0,70924.0,0.0,ok,True
+Chandigarh,Malaria,2025,65.0,0.0,100102.0,5.0,ok,True
+Chhattisgarh,Dengue,2021,1086.0,0.0,,,ok,True
+Chhattisgarh,Dengue,2022,2679.0,10.0,,,ok,True
+Chhattisgarh,Dengue,2023,2412.0,0.0,,,ok,True
+Chhattisgarh,Dengue,2024,3523.0,2.0,,,ok,True
+Chhattisgarh,Dengue,2025,513.0,0.0,,,ok,True
+Chhattisgarh,Malaria,2022,30029.0,20.0,5815212.0,25902.0,ok,True
+Chhattisgarh,Malaria,2023,31706.0,15.0,6891223.0,28167.0,ok,True
+Chhattisgarh,Malaria,2024,31373.0,18.0,7835708.0,27300.0,ok,True
+Chhattisgarh,Malaria,2025,28836.0,12.0,6987642.0,25304.0,ok,True
+Dadra and Nagar Haveli and Daman and Diu,Dengue,2021,826.0,0.0,,,ok,True
+Dadra and Nagar Haveli and Daman and Diu,Dengue,2022,913.0,0.0,,,ok,True
+Dadra and Nagar Haveli and Daman and Diu,Dengue,2023,1462.0,1.0,,,ok,True
+Dadra and Nagar Haveli and Daman and Diu,Dengue,2024,681.0,0.0,,,ok,True
+Dadra and Nagar Haveli and Daman and Diu,Dengue,2025,344.0,0.0,,,ok,True
+Dadra and Nagar Haveli and Daman and Diu,Malaria,2022,111.0,0.0,131198.0,16.0,ok,True
+Dadra and Nagar Haveli and Daman and Diu,Malaria,2023,128.0,1.0,146190.0,36.0,ok,True
+Dadra and Nagar Haveli and Daman and Diu,Malaria,2024,207.0,0.0,129983.0,29.0,ok,True
+Dadra and Nagar Haveli and Daman and Diu,Malaria,2025,212.0,0.0,130760.0,48.0,ok,True
+Delhi,Dengue,2021,13089.0,23.0,,,ok,True
+Delhi,Dengue,2022,10183.0,9.0,,,ok,True
+Delhi,Dengue,2023,16866.0,19.0,,,ok,True
+Delhi,Dengue,2024,10585.0,11.0,,,ok,True
+Delhi,Dengue,2025,4665.0,4.0,,,ok,True
+Delhi,Malaria,2022,263.0,1.0,46299.0,43.0,ok,True
+Delhi,Malaria,2023,344.0,1.0,65633.0,41.0,ok,True
+Delhi,Malaria,2024,910.0,0.0,224373.0,82.0,ok,True
+Delhi,Malaria,2025,941.0,0.0,328650.0,118.0,ok,True
+Goa,Dengue,2021,649.0,0.0,,,ok,True
+Goa,Dengue,2022,443.0,1.0,,,ok,True
+Goa,Dengue,2023,512.0,3.0,,,ok,True
+Goa,Dengue,2024,567.0,3.0,,,ok,True
+Goa,Dengue,2025,105.0,0.0,,,ok,True
+Goa,Malaria,2022,587.0,0.0,249449.0,244.0,ok,True
+Goa,Malaria,2023,1346.0,0.0,319859.0,488.0,ok,True
+Goa,Malaria,2024,884.0,0.0,406527.0,286.0,ok,True
+Goa,Malaria,2025,448.0,0.0,457621.0,104.0,ok,True
+Gujarat,Dengue,2021,10983.0,14.0,,,ok,True
+Gujarat,Dengue,2022,6682.0,7.0,,,ok,True
+Gujarat,Dengue,2023,7222.0,7.0,,,ok,True
+Gujarat,Dengue,2024,7891.0,6.0,,,ok,True
+Gujarat,Dengue,2025,4233.0,0.0,,,ok,True
+Gujarat,Malaria,2022,4785.0,0.0,15192658.0,518.0,ok,True
+Gujarat,Malaria,2023,4311.0,1.0,17442857.0,662.0,ok,True
+Gujarat,Malaria,2024,4365.0,1.0,18109327.0,698.0,ok,True
+Gujarat,Malaria,2025,3813.0,2.0,18120556.0,789.0,ok,True
+Haryana,Dengue,2021,11835.0,13.0,,,ok,True
+Haryana,Dengue,2022,8996.0,18.0,,,ok,True
+Haryana,Dengue,2023,8081.0,11.0,,,ok,True
+Haryana,Dengue,2024,6469.0,9.0,,,ok,True
+Haryana,Dengue,2025,2626.0,0.0,,,ok,True
+Haryana,Malaria,2022,52.0,0.0,3323816.0,1.0,ok,True
+Haryana,Malaria,2023,85.0,0.0,3708401.0,5.0,ok,True
+Haryana,Malaria,2024,522.0,0.0,3775769.0,30.0,ok,True
+Haryana,Malaria,2025,515.0,0.0,3628970.0,25.0,ok,True
+Himachal Pradesh,Dengue,2021,349.0,0.0,,,ok,True
+Himachal Pradesh,Dengue,2022,3326.0,1.0,,,ok,True
+Himachal Pradesh,Dengue,2023,1989.0,0.0,,,ok,True
+Himachal Pradesh,Dengue,2024,3359.0,0.0,,,ok,True
+Himachal Pradesh,Dengue,2025,229.0,0.0,,,ok,True
+Himachal Pradesh,Malaria,2022,12.0,0.0,226943.0,2.0,ok,True
+Himachal Pradesh,Malaria,2023,23.0,0.0,274839.0,0.0,ok,True
+Himachal Pradesh,Malaria,2024,28.0,0.0,281499.0,2.0,ok,True
+Himachal Pradesh,Malaria,2025,28.0,0.0,303334.0,4.0,ok,True
+Jammu and Kashmir,Dengue,2021,1709.0,4.0,,,ok,True
+Jammu and Kashmir,Dengue,2022,8269.0,18.0,,,ok,True
+Jammu and Kashmir,Dengue,2023,6403.0,10.0,,,ok,True
+Jammu and Kashmir,Dengue,2024,6876.0,1.0,,,ok,True
+Jammu and Kashmir,Dengue,2025,3381.0,2.0,,,ok,True
+Jammu and Kashmir,Malaria,2022,35.0,0.0,450767.0,1.0,ok,True
+Jammu and Kashmir,Malaria,2023,44.0,0.0,485729.0,14.0,ok,True
+Jammu and Kashmir,Malaria,2024,108.0,0.0,461482.0,21.0,ok,True
+Jammu and Kashmir,Malaria,2025,127.0,0.0,425359.0,20.0,ok,True
+Jharkhand,Dengue,2021,220.0,1.0,,,ok,True
+Jharkhand,Dengue,2022,290.0,0.0,,,ok,True
+Jharkhand,Dengue,2023,2578.0,4.0,,,ok,True
+Jharkhand,Dengue,2024,1528.0,0.0,,,ok,True
+Jharkhand,Dengue,2025,401.0,1.0,,,ok,True
+Jharkhand,Malaria,2022,19167.0,4.0,9778246.0,14963.0,ok,True
+Jharkhand,Malaria,2023,34087.0,2.0,5731625.0,28990.0,ok,True
+Jharkhand,Malaria,2024,42352.0,0.0,6127645.0,35016.0,ok,True
+Jharkhand,Malaria,2025,42236.0,2.0,6978492.0,32761.0,ok,True
+Karnataka,Dengue,2021,7393.0,7.0,,,ok,True
+Karnataka,Dengue,2022,9889.0,9.0,,,ok,True
+Karnataka,Dengue,2023,19300.0,11.0,,,ok,True
+Karnataka,Dengue,2024,32886.0,27.0,,,ok,True
+Karnataka,Dengue,2025,7325.0,0.0,,,ok,True
+Karnataka,Malaria,2022,289.0,0.0,11573428.0,34.0,ok,True
+Karnataka,Malaria,2023,275.0,2.0,13349842.0,61.0,ok,True
+Karnataka,Malaria,2024,740.0,3.0,14657160.0,114.0,ok,True
+Karnataka,Malaria,2025,694.0,1.0,15621201.0,208.0,ok,True
+Kerala,Dengue,2021,3251.0,27.0,,,ok,True
+Kerala,Dengue,2022,4432.0,29.0,,,ok,True
+Kerala,Dengue,2023,17426.0,153.0,,,ok,True
+Kerala,Dengue,2024,20674.0,128.0,,,ok,True
+Kerala,Dengue,2025,10923.0,65.0,,,ok,True
+Kerala,Malaria,2022,439.0,0.0,2576921.0,206.0,ok,True
+Kerala,Malaria,2023,569.0,7.0,3076673.0,301.0,ok,True
+Kerala,Malaria,2024,954.0,6.0,3331487.0,494.0,ok,True
+Kerala,Malaria,2025,1144.0,2.0,3762263.0,571.0,ok,True
+Ladakh,Dengue,2021,,,,,non_endemic,False
+Ladakh,Dengue,2022,,,,,non_endemic,False
+Ladakh,Dengue,2023,,,,,non_endemic,False
+Ladakh,Dengue,2024,,,,,non_endemic,False
+Ladakh,Dengue,2025,,,,,non_endemic,False
+Ladakh,Malaria,2022,2.0,0.0,2.0,0.0,ok,True
+Ladakh,Malaria,2023,10.0,1.0,160.0,1.0,ok,True
+Ladakh,Malaria,2024,9.0,0.0,247.0,1.0,ok,True
+Ladakh,Malaria,2025,10.0,0.0,501.0,6.0,ok,True
+Lakshadweep,Dengue,2021,1.0,0.0,,,ok,True
+Lakshadweep,Dengue,2022,67.0,0.0,,,ok,True
+Lakshadweep,Dengue,2023,445.0,0.0,,,ok,True
+Lakshadweep,Dengue,2024,513.0,0.0,,,ok,True
+Lakshadweep,Dengue,2025,125.0,0.0,,,ok,True
+Lakshadweep,Malaria,2022,0.0,0.0,1893.0,0.0,ok,True
+Lakshadweep,Malaria,2023,0.0,0.0,1400.0,0.0,ok,True
+Lakshadweep,Malaria,2024,1.0,0.0,1455.0,1.0,ok,True
+Lakshadweep,Malaria,2025,0.0,0.0,2033.0,0.0,ok,True
+Madhya Pradesh,Dengue,2021,15592.0,11.0,,,ok,True
+Madhya Pradesh,Dengue,2022,3318.0,2.0,,,ok,True
+Madhya Pradesh,Dengue,2023,6979.0,0.0,,,ok,True
+Madhya Pradesh,Dengue,2024,10224.0,6.0,,,ok,True
+Madhya Pradesh,Dengue,2025,1941.0,0.0,,,ok,True
+Madhya Pradesh,Malaria,2022,3826.0,0.0,11031117.0,2452.0,ok,True
+Madhya Pradesh,Malaria,2023,3794.0,0.0,11530451.0,2625.0,ok,True
+Madhya Pradesh,Malaria,2024,3247.0,0.0,11899664.0,2041.0,ok,True
+Madhya Pradesh,Malaria,2025,2347.0,0.0,9927398.0,1343.0,ok,True
+Maharashtra,Dengue,2021,12720.0,42.0,,,ok,True
+Maharashtra,Dengue,2022,8578.0,27.0,,,ok,True
+Maharashtra,Dengue,2023,19034.0,55.0,,,ok,True
+Maharashtra,Dengue,2024,19385.0,40.0,,,ok,True
+Maharashtra,Dengue,2025,14168.0,24.0,,,ok,True
+Maharashtra,Malaria,2022,15451.0,26.0,17353964.0,8983.0,ok,True
+Maharashtra,Malaria,2023,16159.0,19.0,18931780.0,6297.0,ok,True
+Maharashtra,Malaria,2024,21078.0,26.0,21623801.0,8832.0,ok,True
+Maharashtra,Malaria,2025,23821.0,28.0,31619647.0,9199.0,ok,True
+Manipur,Dengue,2021,203.0,0.0,,,ok,True
+Manipur,Dengue,2022,503.0,4.0,,,ok,True
+Manipur,Dengue,2023,2548.0,0.0,,,ok,True
+Manipur,Dengue,2024,2463.0,5.0,,,ok,True
+Manipur,Dengue,2025,5519.0,1.0,,,ok,True
+Manipur,Malaria,2022,30.0,0.0,170729.0,10.0,ok,True
+Manipur,Malaria,2023,34.0,0.0,77627.0,12.0,ok,True
+Manipur,Malaria,2024,43.0,0.0,148178.0,11.0,ok,True
+Manipur,Malaria,2025,78.0,0.0,209323.0,10.0,ok,True
+Meghalaya,Dengue,2021,129.0,0.0,,,ok,True
+Meghalaya,Dengue,2022,26.0,0.0,,,ok,True
+Meghalaya,Dengue,2023,114.0,0.0,,,ok,True
+Meghalaya,Dengue,2024,74.0,0.0,,,ok,True
+Meghalaya,Dengue,2025,81.0,0.0,,,ok,True
+Meghalaya,Malaria,2022,479.0,8.0,586579.0,446.0,ok,True
+Meghalaya,Malaria,2023,1755.0,14.0,662339.0,1679.0,ok,True
+Meghalaya,Malaria,2024,673.0,4.0,789799.0,602.0,ok,True
+Meghalaya,Malaria,2025,418.0,2.0,838217.0,356.0,ok,True
+Mizoram,Dengue,2021,83.0,0.0,,,ok,True
+Mizoram,Dengue,2022,1868.0,5.0,,,ok,True
+Mizoram,Dengue,2023,2060.0,2.0,,,ok,True
+Mizoram,Dengue,2024,744.0,1.0,,,ok,True
+Mizoram,Dengue,2025,1482.0,0.0,,,ok,True
+Mizoram,Malaria,2022,11156.0,10.0,461929.0,8252.0,ok,True
+Mizoram,Malaria,2023,18077.0,13.0,367855.0,11628.0,ok,True
+Mizoram,Malaria,2024,16899.0,7.0,307934.0,8950.0,ok,True
+Mizoram,Malaria,2025,9330.0,6.0,289387.0,5490.0,ok,True
+Nagaland,Dengue,2021,24.0,0.0,,,ok,True
+Nagaland,Dengue,2022,154.0,0.0,,,ok,True
+Nagaland,Dengue,2023,4943.0,2.0,,,ok,True
+Nagaland,Dengue,2024,42.0,0.0,,,ok,True
+Nagaland,Dengue,2025,97.0,0.0,,,ok,True
+Nagaland,Malaria,2022,9.0,0.0,258973.0,4.0,ok,True
+Nagaland,Malaria,2023,10.0,0.0,249433.0,5.0,ok,True
+Nagaland,Malaria,2024,12.0,0.0,306539.0,3.0,ok,True
+Nagaland,Malaria,2025,210.0,0.0,256810.0,5.0,ok,True
+Odisha,Dengue,2021,7548.0,0.0,,,ok,True
+Odisha,Dengue,2022,7063.0,0.0,,,ok,True
+Odisha,Dengue,2023,12845.0,1.0,,,ok,True
+Odisha,Dengue,2024,9892.0,0.0,,,ok,True
+Odisha,Dengue,2025,2635.0,0.0,,,ok,True
+Odisha,Malaria,2022,23770.0,5.0,8160202.0,19295.0,ok,True
+Odisha,Malaria,2023,41973.0,4.0,9509933.0,33684.0,ok,True
+Odisha,Malaria,2024,68693.0,8.0,10468801.0,50501.0,ok,True
+Odisha,Malaria,2025,62137.0,6.0,10832023.0,43153.0,ok,True
+Puducherry,Dengue,2021,1625.0,1.0,,,ok,True
+Puducherry,Dengue,2022,1673.0,3.0,,,ok,True
+Puducherry,Dengue,2023,2790.0,2.0,,,ok,True
+Puducherry,Dengue,2024,2128.0,0.0,,,ok,True
+Puducherry,Dengue,2025,902.0,1.0,,,ok,True
+Puducherry,Malaria,2022,0.0,0.0,103037.0,0.0,ok,True
+Puducherry,Malaria,2023,6.0,0.0,147431.0,0.0,ok,True
+Puducherry,Malaria,2024,4.0,0.0,165198.0,3.0,ok,True
+Puducherry,Malaria,2025,17.0,0.0,166891.0,7.0,ok,True
+Punjab,Dengue,2021,23389.0,55.0,,,ok,True
+Punjab,Dengue,2022,11030.0,41.0,,,ok,True
+Punjab,Dengue,2023,13687.0,39.0,,,ok,True
+Punjab,Dengue,2024,6260.0,13.0,,,ok,True
+Punjab,Dengue,2025,4981.0,8.0,,,ok,True
+Punjab,Malaria,2022,119.0,2.0,2942145.0,8.0,ok,True
+Punjab,Malaria,2023,75.0,0.0,2823429.0,7.0,ok,True
+Punjab,Malaria,2024,379.0,0.0,2842710.0,33.0,ok,True
+Punjab,Malaria,2025,420.0,0.0,2823401.0,10.0,ok,True
+Rajasthan,Dengue,2021,20749.0,96.0,,,ok,True
+Rajasthan,Dengue,2022,13491.0,10.0,,,ok,True
+Rajasthan,Dengue,2023,13924.0,14.0,,,ok,True
+Rajasthan,Dengue,2024,12514.0,5.0,,,ok,True
+Rajasthan,Dengue,2025,4348.0,3.0,,,ok,True
+Rajasthan,Malaria,2022,1565.0,1.0,10339992.0,112.0,ok,True
+Rajasthan,Malaria,2023,2263.0,0.0,10085307.0,248.0,ok,True
+Rajasthan,Malaria,2024,2213.0,1.0,10558402.0,665.0,ok,True
+Rajasthan,Malaria,2025,1756.0,0.0,11935188.0,689.0,ok,True
+Sikkim,Dengue,2021,243.0,1.0,,,ok,True
+Sikkim,Dengue,2022,264.0,0.0,,,ok,True
+Sikkim,Dengue,2023,311.0,0.0,,,ok,True
+Sikkim,Dengue,2024,374.0,0.0,,,ok,True
+Sikkim,Dengue,2025,169.0,0.0,,,ok,True
+Sikkim,Malaria,2022,8.0,0.0,7920.0,3.0,ok,True
+Sikkim,Malaria,2023,6.0,0.0,9743.0,1.0,ok,True
+Sikkim,Malaria,2024,7.0,0.0,21985.0,2.0,ok,True
+Sikkim,Malaria,2025,14.0,0.0,19202.0,5.0,ok,True
+Tamil Nadu,Dengue,2021,6039.0,8.0,,,ok,True
+Tamil Nadu,Dengue,2022,6430.0,8.0,,,ok,True
+Tamil Nadu,Dengue,2023,9121.0,12.0,,,ok,True
+Tamil Nadu,Dengue,2024,27378.0,13.0,,,ok,True
+Tamil Nadu,Dengue,2025,23407.0,12.0,,,ok,True
+Tamil Nadu,Malaria,2022,354.0,0.0,11274448.0,71.0,ok,True
+Tamil Nadu,Malaria,2023,385.0,0.0,12649263.0,84.0,ok,True
+Tamil Nadu,Malaria,2024,347.0,0.0,12646221.0,96.0,ok,True
+Tamil Nadu,Malaria,2025,324.0,2.0,12664972.0,106.0,ok,True
+Telangana,Dengue,2021,7135.0,0.0,,,ok,True
+Telangana,Dengue,2022,8972.0,0.0,,,ok,True
+Telangana,Dengue,2023,8016.0,1.0,,,ok,True
+Telangana,Dengue,2024,10077.0,0.0,,,ok,True
+Telangana,Dengue,2025,8412.0,0.0,,,ok,True
+Telangana,Malaria,2022,611.0,0.0,4952745.0,540.0,ok,True
+Telangana,Malaria,2023,420.0,0.0,4868195.0,368.0,ok,True
+Telangana,Malaria,2024,269.0,0.0,5081050.0,231.0,ok,True
+Telangana,Malaria,2025,259.0,0.0,5288213.0,191.0,ok,True
+Tripura,Dengue,2021,349.0,0.0,,,ok,True
+Tripura,Dengue,2022,56.0,0.0,,,ok,True
+Tripura,Dengue,2023,1447.0,0.0,,,ok,True
+Tripura,Dengue,2024,1198.0,0.0,,,ok,True
+Tripura,Dengue,2025,741.0,0.0,,,ok,True
+Tripura,Malaria,2022,12771.0,3.0,1181946.0,9374.0,ok,True
+Tripura,Malaria,2023,22412.0,1.0,1584800.0,12413.0,ok,True
+Tripura,Malaria,2024,9738.0,0.0,1185735.0,4801.0,ok,True
+Tripura,Malaria,2025,6094.0,0.0,864631.0,3644.0,ok,True
+Uttar Pradesh,Dengue,2021,29750.0,29.0,,,ok,True
+Uttar Pradesh,Dengue,2022,19821.0,33.0,,,ok,True
+Uttar Pradesh,Dengue,2023,35402.0,36.0,,,ok,True
+Uttar Pradesh,Dengue,2024,15868.0,9.0,,,ok,True
+Uttar Pradesh,Dengue,2025,9206.0,3.0,,,ok,True
+Uttar Pradesh,Malaria,2022,7039.0,0.0,8322741.0,503.0,ok,True
+Uttar Pradesh,Malaria,2023,13603.0,0.0,10672898.0,1305.0,ok,True
+Uttar Pradesh,Malaria,2024,13477.0,0.0,14512288.0,998.0,ok,True
+Uttar Pradesh,Malaria,2025,14593.0,0.0,18697953.0,650.0,ok,True
+Uttarakhand,Dengue,2021,738.0,2.0,,,ok,True
+Uttarakhand,Dengue,2022,2337.0,0.0,,,ok,True
+Uttarakhand,Dengue,2023,4320.0,17.0,,,ok,True
+Uttarakhand,Dengue,2024,494.0,0.0,,,ok,True
+Uttarakhand,Dengue,2025,992.0,0.0,,,ok,True
+Uttarakhand,Malaria,2022,19.0,0.0,695700.0,4.0,ok,True
+Uttarakhand,Malaria,2023,24.0,0.0,706891.0,3.0,ok,True
+Uttarakhand,Malaria,2024,241.0,0.0,721555.0,29.0,ok,True
+Uttarakhand,Malaria,2025,196.0,0.0,544830.0,56.0,ok,True
+West Bengal,Dengue,2021,8264.0,7.0,,,ok,True
+West Bengal,Dengue,2022,67271.0,30.0,,,ok,True
+West Bengal,Dengue,2023,30683.0,4.0,,,partial_year,False
+West Bengal,Dengue,2024,441.0,0.0,,,partial_year,False
+West Bengal,Dengue,2025,,,,,not_reported,False
+West Bengal,Malaria,2022,40594.0,3.0,11649846.0,7277.0,ok,True
+West Bengal,Malaria,2023,26493.0,2.0,12870741.0,3565.0,ok,True
+West Bengal,Malaria,2024,21802.0,2.0,13653675.0,3841.0,ok,True
+West Bengal,Malaria,2025,19840.0,2.0,13183059.0,3592.0,ok,True
