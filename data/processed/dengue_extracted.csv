@@ -1,0 +1,223 @@
+state,year,disease,cases,deaths,status
+Andhra Pradesh,2021,Dengue,4760.0,0.0,ok
+Andhra Pradesh,2022,Dengue,6391.0,0.0,ok
+Andhra Pradesh,2023,Dengue,6453.0,0.0,ok
+Andhra Pradesh,2024,Dengue,5555.0,2.0,ok
+Andhra Pradesh,2025,Dengue,2686.0,5.0,ok
+Andhra Pradesh,2026,Dengue,770.0,0.0,ok
+Arunachal Pradesh,2021,Dengue,7.0,0.0,ok
+Arunachal Pradesh,2022,Dengue,114.0,0.0,ok
+Arunachal Pradesh,2023,Dengue,130.0,0.0,ok
+Arunachal Pradesh,2024,Dengue,20.0,0.0,ok
+Arunachal Pradesh,2025,Dengue,170.0,0.0,ok
+Arunachal Pradesh,2026,Dengue,14.0,0.0,ok
+Assam,2021,Dengue,103.0,0.0,ok
+Assam,2022,Dengue,1826.0,2.0,ok
+Assam,2023,Dengue,8208.0,7.0,ok
+Assam,2024,Dengue,2271.0,0.0,ok
+Assam,2025,Dengue,679.0,0.0,ok
+Assam,2026,Dengue,53.0,0.0,ok
+Bihar,2021,Dengue,633.0,2.0,ok
+Bihar,2022,Dengue,13972.0,32.0,ok
+Bihar,2023,Dengue,20224.0,74.0,ok
+Bihar,2024,Dengue,10157.0,16.0,ok
+Bihar,2025,Dengue,3902.0,2.0,ok
+Bihar,2026,Dengue,97.0,0.0,ok
+Chhattisgarh,2021,Dengue,1086.0,0.0,ok
+Chhattisgarh,2022,Dengue,2679.0,10.0,ok
+Chhattisgarh,2023,Dengue,2412.0,0.0,ok
+Chhattisgarh,2024,Dengue,3523.0,2.0,ok
+Chhattisgarh,2025,Dengue,513.0,0.0,ok
+Chhattisgarh,2026,Dengue,30.0,0.0,ok
+Goa,2021,Dengue,649.0,0.0,ok
+Goa,2022,Dengue,443.0,1.0,ok
+Goa,2023,Dengue,512.0,3.0,ok
+Goa,2024,Dengue,567.0,3.0,ok
+Goa,2025,Dengue,105.0,0.0,ok
+Goa,2026,Dengue,12.0,0.0,ok
+Gujarat,2021,Dengue,10983.0,14.0,ok
+Gujarat,2022,Dengue,6682.0,7.0,ok
+Gujarat,2023,Dengue,7222.0,7.0,ok
+Gujarat,2024,Dengue,7891.0,6.0,ok
+Gujarat,2025,Dengue,4233.0,0.0,ok
+Gujarat,2026,Dengue,339.0,0.0,ok
+Haryana,2021,Dengue,11835.0,13.0,ok
+Haryana,2022,Dengue,8996.0,18.0,ok
+Haryana,2023,Dengue,8081.0,11.0,ok
+Haryana,2024,Dengue,6469.0,9.0,ok
+Haryana,2025,Dengue,2626.0,0.0,ok
+Haryana,2026,Dengue,27.0,0.0,ok
+Himachal Pradesh,2021,Dengue,349.0,0.0,ok
+Himachal Pradesh,2022,Dengue,3326.0,1.0,ok
+Himachal Pradesh,2023,Dengue,1989.0,0.0,ok
+Himachal Pradesh,2024,Dengue,3359.0,0.0,ok
+Himachal Pradesh,2025,Dengue,229.0,0.0,ok
+Himachal Pradesh,2026,Dengue,18.0,0.0,ok
+Jharkhand,2021,Dengue,220.0,1.0,ok
+Jharkhand,2022,Dengue,290.0,0.0,ok
+Jharkhand,2023,Dengue,2578.0,4.0,ok
+Jharkhand,2024,Dengue,1528.0,0.0,ok
+Jharkhand,2025,Dengue,401.0,1.0,ok
+Jharkhand,2026,Dengue,29.0,0.0,ok
+Karnataka,2021,Dengue,7393.0,7.0,ok
+Karnataka,2022,Dengue,9889.0,9.0,ok
+Karnataka,2023,Dengue,19300.0,11.0,ok
+Karnataka,2024,Dengue,32886.0,27.0,ok
+Karnataka,2025,Dengue,7325.0,0.0,ok
+Karnataka,2026,Dengue,978.0,0.0,ok
+Kerala,2021,Dengue,3251.0,27.0,ok
+Kerala,2022,Dengue,4432.0,29.0,ok
+Kerala,2023,Dengue,17426.0,153.0,ok
+Kerala,2024,Dengue,20674.0,128.0,ok
+Kerala,2025,Dengue,10923.0,65.0,ok
+Kerala,2026,Dengue,1403.0,10.0,ok
+Madhya Pradesh,2021,Dengue,15592.0,11.0,ok
+Madhya Pradesh,2022,Dengue,3318.0,2.0,ok
+Madhya Pradesh,2023,Dengue,6979.0,0.0,ok
+Madhya Pradesh,2024,Dengue,10224.0,6.0,ok
+Madhya Pradesh,2025,Dengue,1941.0,0.0,ok
+Madhya Pradesh,2026,Dengue,242.0,0.0,ok
+Meghalaya,2021,Dengue,129.0,0.0,ok
+Meghalaya,2022,Dengue,26.0,0.0,ok
+Meghalaya,2023,Dengue,114.0,0.0,ok
+Meghalaya,2024,Dengue,74.0,0.0,ok
+Meghalaya,2025,Dengue,81.0,0.0,ok
+Meghalaya,2026,Dengue,11.0,0.0,ok
+Maharashtra,2021,Dengue,12720.0,42.0,ok
+Maharashtra,2022,Dengue,8578.0,27.0,ok
+Maharashtra,2023,Dengue,19034.0,55.0,ok
+Maharashtra,2024,Dengue,19385.0,40.0,ok
+Maharashtra,2025,Dengue,14168.0,24.0,ok
+Maharashtra,2026,Dengue,1525.0,0.0,ok
+Manipur,2021,Dengue,203.0,0.0,ok
+Manipur,2022,Dengue,503.0,4.0,ok
+Manipur,2023,Dengue,2548.0,0.0,ok
+Manipur,2024,Dengue,2463.0,5.0,ok
+Manipur,2025,Dengue,5519.0,1.0,ok
+Manipur,2026,Dengue,25.0,0.0,ok
+Mizoram,2021,Dengue,83.0,0.0,ok
+Mizoram,2022,Dengue,1868.0,5.0,ok
+Mizoram,2023,Dengue,2060.0,2.0,ok
+Mizoram,2024,Dengue,744.0,1.0,ok
+Mizoram,2025,Dengue,1482.0,0.0,ok
+Mizoram,2026,Dengue,110.0,0.0,ok
+Nagaland,2021,Dengue,24.0,0.0,ok
+Nagaland,2022,Dengue,154.0,0.0,ok
+Nagaland,2023,Dengue,4943.0,2.0,ok
+Nagaland,2024,Dengue,42.0,0.0,ok
+Nagaland,2025,Dengue,97.0,0.0,ok
+Nagaland,2026,Dengue,1.0,0.0,ok
+Odisha,2021,Dengue,7548.0,0.0,ok
+Odisha,2022,Dengue,7063.0,0.0,ok
+Odisha,2023,Dengue,12845.0,1.0,ok
+Odisha,2024,Dengue,9892.0,0.0,ok
+Odisha,2025,Dengue,2635.0,0.0,ok
+Odisha,2026,Dengue,93.0,0.0,ok
+Punjab,2021,Dengue,23389.0,55.0,ok
+Punjab,2022,Dengue,11030.0,41.0,ok
+Punjab,2023,Dengue,13687.0,39.0,ok
+Punjab,2024,Dengue,6260.0,13.0,ok
+Punjab,2025,Dengue,4981.0,8.0,ok
+Punjab,2026,Dengue,47.0,0.0,ok
+Rajasthan,2021,Dengue,20749.0,96.0,ok
+Rajasthan,2022,Dengue,13491.0,10.0,ok
+Rajasthan,2023,Dengue,13924.0,14.0,ok
+Rajasthan,2024,Dengue,12514.0,5.0,ok
+Rajasthan,2025,Dengue,4348.0,3.0,ok
+Rajasthan,2026,Dengue,219.0,0.0,ok
+Sikkim,2021,Dengue,243.0,1.0,ok
+Sikkim,2022,Dengue,264.0,0.0,ok
+Sikkim,2023,Dengue,311.0,0.0,ok
+Sikkim,2024,Dengue,374.0,0.0,ok
+Sikkim,2025,Dengue,169.0,0.0,ok
+Sikkim,2026,Dengue,21.0,0.0,ok
+Tamil Nadu,2021,Dengue,6039.0,8.0,ok
+Tamil Nadu,2022,Dengue,6430.0,8.0,ok
+Tamil Nadu,2023,Dengue,9121.0,12.0,ok
+Tamil Nadu,2024,Dengue,27378.0,13.0,ok
+Tamil Nadu,2025,Dengue,23407.0,12.0,ok
+Tamil Nadu,2026,Dengue,4973.0,2.0,ok
+Tripura,2021,Dengue,349.0,0.0,ok
+Tripura,2022,Dengue,56.0,0.0,ok
+Tripura,2023,Dengue,1447.0,0.0,ok
+Tripura,2024,Dengue,1198.0,0.0,ok
+Tripura,2025,Dengue,741.0,0.0,ok
+Tripura,2026,Dengue,222.0,0.0,ok
+Telangana,2021,Dengue,7135.0,0.0,ok
+Telangana,2022,Dengue,8972.0,0.0,ok
+Telangana,2023,Dengue,8016.0,1.0,ok
+Telangana,2024,Dengue,10077.0,0.0,ok
+Telangana,2025,Dengue,8412.0,0.0,ok
+Telangana,2026,Dengue,417.0,0.0,ok
+Uttar Pradesh,2021,Dengue,29750.0,29.0,ok
+Uttar Pradesh,2022,Dengue,19821.0,33.0,ok
+Uttar Pradesh,2023,Dengue,35402.0,36.0,ok
+Uttar Pradesh,2024,Dengue,15868.0,9.0,ok
+Uttar Pradesh,2025,Dengue,9206.0,3.0,ok
+Uttar Pradesh,2026,Dengue,206.0,0.0,ok
+Uttarakhand,2021,Dengue,738.0,2.0,ok
+Uttarakhand,2022,Dengue,2337.0,0.0,ok
+Uttarakhand,2023,Dengue,4320.0,17.0,ok
+Uttarakhand,2024,Dengue,494.0,0.0,ok
+Uttarakhand,2025,Dengue,992.0,0.0,ok
+Uttarakhand,2026,Dengue,0.0,0.0,ok
+West Bengal,2021,Dengue,8264.0,7.0,ok
+West Bengal,2022,Dengue,67271.0,30.0,ok
+West Bengal,2023,Dengue,30683.0,4.0,partial_year
+West Bengal,2024,Dengue,441.0,0.0,partial_year
+West Bengal,2025,Dengue,,,not_reported
+West Bengal,2026,Dengue,770.0,0.0,ok
+A&N Islands,2021,Dengue,175.0,0.0,ok
+A&N Islands,2022,Dengue,1014.0,3.0,ok
+A&N Islands,2023,Dengue,846.0,0.0,ok
+A&N Islands,2024,Dengue,59.0,0.0,ok
+A&N Islands,2025,Dengue,370.0,0.0,ok
+A&N Islands,2026,Dengue,63.0,0.0,ok
+Chandigarh,2021,Dengue,1596.0,3.0,ok
+Chandigarh,2022,Dengue,910.0,1.0,ok
+Chandigarh,2023,Dengue,454.0,0.0,ok
+Chandigarh,2024,Dengue,349.0,0.0,ok
+Chandigarh,2025,Dengue,66.0,0.0,ok
+Chandigarh,2026,Dengue,0.0,0.0,ok
+Delhi,2021,Dengue,13089.0,23.0,ok
+Delhi,2022,Dengue,10183.0,9.0,ok
+Delhi,2023,Dengue,16866.0,19.0,ok
+Delhi,2024,Dengue,10585.0,11.0,ok
+Delhi,2025,Dengue,4665.0,4.0,ok
+Delhi,2026,Dengue,213.0,0.0,ok
+D&N Haveli,2021,Dengue,547.0,0.0,ok
+D&N Haveli,2022,Dengue,685.0,0.0,ok
+D&N Haveli,2023,Dengue,1178.0,0.0,ok
+D&N Haveli,2024,Dengue,403.0,0.0,ok
+D&N Haveli,2025,Dengue,212.0,0.0,ok
+D&N Haveli,2026,Dengue,5.0,0.0,ok
+Daman & Diu,2021,Dengue,279.0,0.0,ok
+Daman & Diu,2022,Dengue,228.0,0.0,ok
+Daman & Diu,2023,Dengue,284.0,1.0,ok
+Daman & Diu,2024,Dengue,278.0,0.0,ok
+Daman & Diu,2025,Dengue,132.0,0.0,ok
+Daman & Diu,2026,Dengue,53.0,0.0,ok
+J&K,2021,Dengue,1709.0,4.0,ok
+J&K,2022,Dengue,8269.0,18.0,ok
+J&K,2023,Dengue,6403.0,10.0,ok
+J&K,2024,Dengue,6876.0,1.0,ok
+J&K,2025,Dengue,3381.0,2.0,ok
+J&K,2026,Dengue,24.0,0.0,ok
+Ladakh,2021,Dengue,,,non_endemic
+Ladakh,2022,Dengue,,,non_endemic
+Ladakh,2023,Dengue,,,non_endemic
+Ladakh,2024,Dengue,,,non_endemic
+Ladakh,2025,Dengue,,,non_endemic
+Ladakh,2026,Dengue,,,non_endemic
+Lakshadweep,2021,Dengue,1.0,0.0,ok
+Lakshadweep,2022,Dengue,67.0,0.0,ok
+Lakshadweep,2023,Dengue,445.0,0.0,ok
+Lakshadweep,2024,Dengue,513.0,0.0,ok
+Lakshadweep,2025,Dengue,125.0,0.0,ok
+Lakshadweep,2026,Dengue,49.0,0.0,ok
+Puducherry,2021,Dengue,1625.0,1.0,ok
+Puducherry,2022,Dengue,1673.0,3.0,ok
+Puducherry,2023,Dengue,2790.0,2.0,ok
+Puducherry,2024,Dengue,2128.0,0.0,ok
+Puducherry,2025,Dengue,902.0,1.0,ok
+Puducherry,2026,Dengue,277.0,0.0,ok

@@ -1,0 +1,181 @@
+state,year,disease,cases,tested,pf_cases,deaths
+Andaman And Nicobar Islands,2022,Malaria,50,31737,20,0
+Andaman And Nicobar Islands,2023,Malaria,42,38986,11,0
+Andaman And Nicobar Islands,2024,Malaria,96,47413,46,0
+Andaman And Nicobar Islands,2025,Malaria,48,55701,25,0
+Andaman And Nicobar Islands,2026,Malaria,69,39231,49,0
+Andhra Pradesh,2022,Malaria,2022,8653048,1457,0
+Andhra Pradesh,2023,Malaria,5268,10294202,4437,0
+Andhra Pradesh,2024,Malaria,7866,12364281,6201,3
+Andhra Pradesh,2025,Malaria,7878,12898436,6356,8
+Andhra Pradesh,2026,Malaria,8549,9616153,7293,5
+Arunachal Pradesh,2022,Malaria,18,136563,3,0
+Arunachal Pradesh,2023,Malaria,11,168521,5,0
+Arunachal Pradesh,2024,Malaria,19,158497,2,0
+Arunachal Pradesh,2025,Malaria,32,185359,11,0
+Arunachal Pradesh,2026,Malaria,14,129562,6,0
+Assam,2022,Malaria,280,4139536,118,0
+Assam,2023,Malaria,567,4712599,283,0
+Assam,2024,Malaria,5036,6510331,1130,7
+Assam,2025,Malaria,3995,6022592,519,3
+Assam,2026,Malaria,2211,4389683,425,0
+Bihar,2022,Malaria,578,176335,208,0
+Bihar,2023,Malaria,1257,225722,519,0
+Bihar,2024,Malaria,906,225687,380,0
+Bihar,2025,Malaria,1041,354214,403,0
+Bihar,2026,Malaria,785,289839,257,0
+Chandigarh,2022,Malaria,2,51828,0,0
+Chandigarh,2023,Malaria,2,56066,0,0
+Chandigarh,2024,Malaria,2,70924,0,0
+Chandigarh,2025,Malaria,65,100102,5,0
+Chandigarh,2026,Malaria,33,74655,4,0
+Chhattisgarh,2022,Malaria,30029,5815212,25902,20
+Chhattisgarh,2023,Malaria,31706,6891223,28167,15
+Chhattisgarh,2024,Malaria,31373,7835708,27300,18
+Chhattisgarh,2025,Malaria,28836,6987642,25304,12
+Chhattisgarh,2026,Malaria,22022,5363211,18616,0
+Delhi,2022,Malaria,263,46299,43,1
+Delhi,2023,Malaria,344,65633,41,1
+Delhi,2024,Malaria,910,224373,82,0
+Delhi,2025,Malaria,941,328650,118,0
+Delhi,2026,Malaria,284,40013,51,0
+Goa,2022,Malaria,587,249449,244,0
+Goa,2023,Malaria,1346,319859,488,0
+Goa,2024,Malaria,884,406527,286,0
+Goa,2025,Malaria,448,457621,104,0
+Goa,2026,Malaria,548,380841,124,0
+Gujarat,2022,Malaria,4785,15192658,518,0
+Gujarat,2023,Malaria,4311,17442857,662,1
+Gujarat,2024,Malaria,4365,18109327,698,1
+Gujarat,2025,Malaria,3813,18120556,789,2
+Gujarat,2026,Malaria,1349,13749984,141,0
+Haryana,2022,Malaria,52,3323816,1,0
+Haryana,2023,Malaria,85,3708401,5,0
+Haryana,2024,Malaria,522,3775769,30,0
+Haryana,2025,Malaria,515,3628970,25,0
+Haryana,2026,Malaria,221,2296409,22,0
+Himachal Pradesh,2022,Malaria,12,226943,2,0
+Himachal Pradesh,2023,Malaria,23,274839,0,0
+Himachal Pradesh,2024,Malaria,28,281499,2,0
+Himachal Pradesh,2025,Malaria,28,303334,4,0
+Himachal Pradesh,2026,Malaria,6,223206,2,0
+Jammu And Kashmir,2022,Malaria,35,450767,1,0
+Jammu And Kashmir,2023,Malaria,44,485729,14,0
+Jammu And Kashmir,2024,Malaria,108,461482,21,0
+Jammu And Kashmir,2025,Malaria,127,425359,20,0
+Jammu And Kashmir,2026,Malaria,112,336088,20,2
+Jharkhand,2022,Malaria,19167,9778246,14963,4
+Jharkhand,2023,Malaria,34087,5731625,28990,2
+Jharkhand,2024,Malaria,42352,6127645,35016,0
+Jharkhand,2025,Malaria,42236,6978492,32761,2
+Jharkhand,2026,Malaria,36232,5930604,27709,5
+Karnataka,2022,Malaria,289,11573428,34,0
+Karnataka,2023,Malaria,275,13349842,61,2
+Karnataka,2024,Malaria,740,14657160,114,3
+Karnataka,2025,Malaria,694,15621201,208,1
+Karnataka,2026,Malaria,565,10822311,149,1
+Kerala,2022,Malaria,439,2576921,206,0
+Kerala,2023,Malaria,569,3076673,301,7
+Kerala,2024,Malaria,954,3331487,494,6
+Kerala,2025,Malaria,1144,3762263,571,2
+Kerala,2026,Malaria,992,2810321,571,5
+Ladakh,2022,Malaria,2,2,0,0
+Ladakh,2023,Malaria,10,160,1,1
+Ladakh,2024,Malaria,9,247,1,0
+Ladakh,2025,Malaria,10,501,6,0
+Ladakh,2026,Malaria,10,524,1,0
+Lakshadweep,2022,Malaria,0,1893,0,0
+Lakshadweep,2023,Malaria,0,1400,0,0
+Lakshadweep,2024,Malaria,1,1455,1,0
+Lakshadweep,2025,Malaria,0,2033,0,0
+Lakshadweep,2026,Malaria,0,340,0,0
+Madhya Pradesh,2022,Malaria,3826,11031117,2452,0
+Madhya Pradesh,2023,Malaria,3794,11530451,2625,0
+Madhya Pradesh,2024,Malaria,3247,11899664,2041,0
+Madhya Pradesh,2025,Malaria,2347,9927398,1343,0
+Madhya Pradesh,2026,Malaria,3020,6121838,2344,2
+Maharashtra,2022,Malaria,15451,17353964,8983,26
+Maharashtra,2023,Malaria,16159,18931780,6297,19
+Maharashtra,2024,Malaria,21078,21623801,8832,26
+Maharashtra,2025,Malaria,23821,31619647,9199,28
+Maharashtra,2026,Malaria,19270,18850082,6158,8
+Manipur,2022,Malaria,30,170729,10,0
+Manipur,2023,Malaria,34,77627,12,0
+Manipur,2024,Malaria,43,148178,11,0
+Manipur,2025,Malaria,78,209323,10,0
+Manipur,2026,Malaria,224,165272,25,0
+Meghalaya,2022,Malaria,479,586579,446,8
+Meghalaya,2023,Malaria,1755,662339,1679,14
+Meghalaya,2024,Malaria,673,789799,602,4
+Meghalaya,2025,Malaria,418,838217,356,2
+Meghalaya,2026,Malaria,215,630965,141,1
+Mizoram,2022,Malaria,11156,461929,8252,10
+Mizoram,2023,Malaria,18077,367855,11628,13
+Mizoram,2024,Malaria,16899,307934,8950,7
+Mizoram,2025,Malaria,9330,289387,5490,6
+Mizoram,2026,Malaria,7325,231959,4444,4
+Nagaland,2022,Malaria,9,258973,4,0
+Nagaland,2023,Malaria,10,249433,5,0
+Nagaland,2024,Malaria,12,306539,3,0
+Nagaland,2025,Malaria,210,256810,5,0
+Nagaland,2026,Malaria,156,188731,12,0
+Odisha,2022,Malaria,23770,8160202,19295,5
+Odisha,2023,Malaria,41973,9509933,33684,4
+Odisha,2024,Malaria,68693,10468801,50501,8
+Odisha,2025,Malaria,62137,10832023,43153,6
+Odisha,2026,Malaria,41948,7977296,31856,7
+Puducherry,2022,Malaria,0,103037,0,0
+Puducherry,2023,Malaria,6,147431,0,0
+Puducherry,2024,Malaria,4,165198,3,0
+Puducherry,2025,Malaria,17,166891,7,0
+Puducherry,2026,Malaria,20,119221,7,0
+Punjab,2022,Malaria,119,2942145,8,2
+Punjab,2023,Malaria,75,2823429,7,0
+Punjab,2024,Malaria,379,2842710,33,0
+Punjab,2025,Malaria,420,2823401,10,0
+Punjab,2026,Malaria,174,1934911,11,0
+Rajasthan,2022,Malaria,1565,10339992,112,1
+Rajasthan,2023,Malaria,2263,10085307,248,0
+Rajasthan,2024,Malaria,2213,10558402,665,1
+Rajasthan,2025,Malaria,1756,11935188,689,0
+Rajasthan,2026,Malaria,868,7773173,249,0
+Sikkim,2022,Malaria,8,7920,3,0
+Sikkim,2023,Malaria,6,9743,1,0
+Sikkim,2024,Malaria,7,21985,2,0
+Sikkim,2025,Malaria,14,19202,5,0
+Sikkim,2026,Malaria,11,16614,2,0
+Tamil Nadu,2022,Malaria,354,11274448,71,0
+Tamil Nadu,2023,Malaria,385,12649263,84,0
+Tamil Nadu,2024,Malaria,347,12646221,96,0
+Tamil Nadu,2025,Malaria,324,12664972,106,2
+Tamil Nadu,2026,Malaria,276,8672289,114,2
+Telangana,2022,Malaria,611,4952745,540,0
+Telangana,2023,Malaria,420,4868195,368,0
+Telangana,2024,Malaria,269,5081050,231,0
+Telangana,2025,Malaria,259,5288213,191,0
+Telangana,2026,Malaria,141,3289817,107,0
+The Dadra And Nagar Haveli And Daman And Diu,2022,Malaria,111,131198,16,0
+The Dadra And Nagar Haveli And Daman And Diu,2023,Malaria,128,146190,36,1
+The Dadra And Nagar Haveli And Daman And Diu,2024,Malaria,207,129983,29,0
+The Dadra And Nagar Haveli And Daman And Diu,2025,Malaria,212,130760,48,0
+The Dadra And Nagar Haveli And Daman And Diu,2026,Malaria,185,132542,37,0
+Tripura,2022,Malaria,12771,1181946,9374,3
+Tripura,2023,Malaria,22412,1584800,12413,1
+Tripura,2024,Malaria,9738,1185735,4801,0
+Tripura,2025,Malaria,6094,864631,3644,0
+Tripura,2026,Malaria,3833,632368,2010,0
+Uttar Pradesh,2022,Malaria,7039,8322741,503,0
+Uttar Pradesh,2023,Malaria,13603,10672898,1305,0
+Uttar Pradesh,2024,Malaria,13477,14512288,998,0
+Uttar Pradesh,2025,Malaria,14593,18697953,650,0
+Uttar Pradesh,2026,Malaria,3835,13505005,202,0
+Uttarakhand,2022,Malaria,19,695700,4,0
+Uttarakhand,2023,Malaria,24,706891,3,0
+Uttarakhand,2024,Malaria,241,721555,29,0
+Uttarakhand,2025,Malaria,196,544830,56,0
+Uttarakhand,2026,Malaria,118,438715,52,0
+West Bengal,2022,Malaria,40594,11649846,7277,3
+West Bengal,2023,Malaria,26493,12870741,3565,2
+West Bengal,2024,Malaria,21802,13653675,3841,2
+West Bengal,2025,Malaria,19840,13183059,3592,2
+West Bengal,2026,Malaria,16570,9786042,2883,1
